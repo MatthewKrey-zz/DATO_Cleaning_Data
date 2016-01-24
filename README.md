@@ -32,6 +32,11 @@ but it differs in that autotagging is typically done with a fixed set of tags, a
 documents as queries, rather than the tags.
 
 
+### Composite Distance Function
+
+*https://www.siam.org/meetings/sdm12/wang_sun_part1.pdf*
+
+
 ### Jaccard Distance
 *https://www.youtube.com/watch?v=Vbdki_gnnYM*
 *https://en.wikipedia.org/wiki/Jaccard_index*
