@@ -57,3 +57,10 @@ entity is not available in all or any of the data sets to be linked.
 Record linkage is an important initial step in many research and data mining projects in the biomedical
 and other sectors, where it is used to improve data quality and to assemble longitudinal or other data
 sets which would not otherwise be available.
+
+### _A Theory for Record Linkage_
+
+*http://courses.cs.washington.edu/courses/cse590q/04au/papers/Felligi69.pdf*
+
+1969 paper by Fellegi and Sunter describing implementation of "classical" approach to probabilistic
+record linkage and a model for doing so. 
