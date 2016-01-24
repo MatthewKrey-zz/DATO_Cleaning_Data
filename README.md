@@ -45,3 +45,15 @@ documents as queries, rather than the tags.
 ### Levenshtein Distance
 
 *https://en.wikipedia.org/wiki/Levenshtein_distance*
+
+### Febrl (Freely extensible biomedical record linkage)
+
+*http://datamining.anu.edu.au/projects/linkage.html*
+
+Record or data linkage techniques are used to link together records which relate to the same entity
+(e.g. patient, customer, household) in one or more data sets where a unique identifier for each
+entity is not available in all or any of the data sets to be linked.
+
+Record linkage is an important initial step in many research and data mining projects in the biomedical
+and other sectors, where it is used to improve data quality and to assemble longitudinal or other data
+sets which would not otherwise be available.
