@@ -42,11 +42,24 @@ documents as queries, rather than the tags.
 *https://en.wikipedia.org/wiki/Jaccard_index*
 *http://mathoverflow.net/questions/18084/is-the-jaccard-distance-a-distance*
 
+The [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index), also known as the
+Jaccard similarity coefficient is a statistic used for comparing the [similarity](https://en.wikipedia.org/wiki/Similarity_measure)
+and [diversity](https://en.wikipedia.org/wiki/Diversity_index) of [sample](https://en.wikipedia.org/wiki/Sample_(statistics)) sets.
+
+The **Jaccard distance** measures _dissimilarity_ between sample sets. It is obtained by subtracting the Jaccard coefficient from 1.
+
 ### Levenshtein Distance
 
 *https://en.wikipedia.org/wiki/Levenshtein_distance*
 
+In [information theory](https://en.wikipedia.org/wiki/Information_theory) and [computer science](https://en.wikipedia.org/wiki/Computer_science), the **Levenshtein distance** is a [string metric](https://en.wikipedia.org/wiki/String_metric) for measuring the difference between two sequences.
+Informally, the Levenshtein distance between two words is the minimum number of single-character edits
+(i.e. insertions, deletions, or substitutions) required to change one word into the other.
+
 ### Febrl (Freely extensible biomedical record linkage)
+
+More on information theory @ *https://www.khanacademy.org/computing/computer-science/informationtheory*
+More on computer science @ *https://www.khanacademy.org/computing/computer-science*
 
 *http://datamining.anu.edu.au/projects/linkage.html*
 
@@ -63,4 +76,4 @@ sets which would not otherwise be available.
 *http://courses.cs.washington.edu/courses/cse590q/04au/papers/Felligi69.pdf*
 
 1969 paper by Fellegi and Sunter describing implementation of "classical" approach to probabilistic
-record linkage and a model for doing so. 
+record linkage and a model for doing so.
